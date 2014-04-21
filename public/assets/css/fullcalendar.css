@@ -1,0 +1,32 @@
+.finished,
+.fc-agenda .finished .fc-event-time,
+.finished a {
+	  background-color: #8e44ad; /* background color */
+    border-color: #8e44ad;     /* border color */
+    color: white	; 
+    }
+
+.normal,
+.fc-agenda .normal .fc-event-time,
+.normal a {
+    background-color: #16a085; /* background color */
+    border-color:#16a085;     /* border color */
+    color: white	;           /* text color */
+    }
+
+.canceled,
+.fc-agenda .canceled .fc-event-time,
+.canceled a {    
+    background-color: #c0392b; /* background color */
+    border-color: #c0392b;     /* border color */
+    color: white	;           /* text color */
+}
+
+.old,
+.fc-agenda .old .fc-event-time,
+.old a {    
+    background-color: #7f8c8d; /* background color */
+    border-color: #7f8c8d;     /* border color */
+    color: #fff	;           /* text color */
+}
+
